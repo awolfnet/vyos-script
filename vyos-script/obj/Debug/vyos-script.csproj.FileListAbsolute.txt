@@ -1,0 +1,9 @@
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\bin\Debug\vyos-script.exe.config
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\bin\Debug\vyos-script.exe
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\bin\Debug\vyos-script.pdb
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos-script.csprojResolveAssemblyReference.cache
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos_script.Form1.resources
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos_script.Properties.Resources.resources
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos-script.csproj.GenerateResource.Cache
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos-script.exe
+c:\users\work\documents\visual studio 2015\Projects\vyos-script\vyos-script\obj\Debug\vyos-script.pdb
